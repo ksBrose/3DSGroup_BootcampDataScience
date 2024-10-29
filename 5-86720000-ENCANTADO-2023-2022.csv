@@ -1,4 +1,4 @@
-Data/Hora;Chuva Hor ria (mm);N¡vel adotado (cm);VazÆo (mü/s);Bateria (V);Temp. Interna (§C)
+Data/Hora;Chuva(mm);Nivel(cm);Vazao(m3/s);Bateria(V);TempInt(C)
 24/10/2023 15:00;0.00;215.00;204.60;13.70;27.50
 24/10/2023 14:45;0.00;216.00;208.00;13.70;27.50
 24/10/2023 14:30;0.00;216.00;208.00;13.70;27.50
